@@ -4,7 +4,7 @@
 
 # Dina Bennett
 
-### 🖋️ Technical Writer | 🧩 Information Architect | 🎨 Content Designer | 📚 Documentation Manager | 🗂️ Taxonomist
+### Technical Writer | Information Architect | Content Designer | Documentation Manager | Taxonomist
 
 ---
 
