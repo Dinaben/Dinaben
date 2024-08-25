@@ -80,6 +80,6 @@ Feel free to reach out if you'd like to collaborate, or just say hi! I'm always 
 
 ---
 
-"Empowering users through clarity, one document at a time."
+Empowering users through clarity, one document at a time.
 
 
